@@ -1,8 +1,33 @@
-# React + Vite
+# GyaanSlate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GyaanSlate is a modern Progressive Web App (PWA) built with Vite + React, offering fast loading times, offline access, and a seamless user experience for educational content.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo at: [GyaanSlate Live](https://gyann-slate.vercel.app/)
+
+## Features
+
+- Fast loading times
+- Offline access
+- App-like experience on any device
+
+## Screenshots
+
+### Browser View
+![Browser View](./livedemoimages/browser.png)
+
+### GyaanSlate Desktop Shortcut
+![GyaanSlate Desktop Shortcut](./livedemoimages/GyaanSlateDesktopShortcut.png)
+
+### Install Permission
+![Install Permission](./livedemoimages/installpermission.jpeg)
+
+### Icon on Phone
+![Icon on Phone](./livedemoimages/icononphone.jpeg)
+
+### Laptop View
+![Laptop View](./livedemoimages/laptop.png)
+
+### Mobile View
+![Mobile View](./livedemoimages/mobile.png)
