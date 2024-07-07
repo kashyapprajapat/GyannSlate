@@ -18,13 +18,13 @@ Check out the live demo at: [GyaanSlate Live](https://gyann-slate.vercel.app/)
 ![Browser View](./livedemoimages/browser.png)
 
 ### GyaanSlate Desktop Shortcut
-![GyaanSlate Desktop Shortcut](./livedemoimages/GyaanSlateDesktopShortcut.png)
+![GyaanSlate Desktop Shortcut](./livedemoimages/GyannSlateDesktopShortcut.png)
 
 ### Install Permission
 ![Install Permission](./livedemoimages/installpermission.jpeg)
 
 ### Icon on Phone
-![Icon on Phone](./livedemoimages/icononphone.jpeg)
+![Icon on Phone](./livedemoimages/iocnonphone.jpeg)
 
 ### Laptop View
 ![Laptop View](./livedemoimages/laptop.png)
